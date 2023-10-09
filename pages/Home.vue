@@ -5,9 +5,9 @@ import { RouterLink } from 'vue-router';
 <template>
   <div class="jumbotron">
     <div class="container">
-      <h1 class="display-4">Coucou</h1>
+      <h1 class="display-4">Mon portfolio</h1>
       <p class="lead">
-        Votre source fiable d'informations et de ressources en ligne.
+        Voici mes projets et des infos sur moi !
       </p>
       <RouterLink to="/about" class="btn btn-primary btn-lg"
         >En savoir plus sur moi</RouterLink
