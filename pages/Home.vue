@@ -10,7 +10,7 @@ import { RouterLink } from 'vue-router';
         Voici mes projets et des infos sur moi !
       </p>
       <RouterLink to="/about" class="btn btn-primary btn-lg"
-        >En savoir plus sur moi</RouterLink
+        >En savoir plus</RouterLink
       >
     </div>
   </div>
