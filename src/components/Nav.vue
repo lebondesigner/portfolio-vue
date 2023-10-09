@@ -22,6 +22,7 @@ import { RouterLink } from 'vue-router';
         <ul class="navbar-nav me-auto mb-2 mb-md-0">
           <NavLink url="/" text="Accueil" />
           <NavLink url="/about" text="À propos" />
+          <NavLink url="/projets" text="Mes projets" />
         </ul>
       </div>
     </div>
