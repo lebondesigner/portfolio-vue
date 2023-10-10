@@ -1,6 +1,6 @@
 <script setup>
-import NavLink from './NavLink.vue';
-import { RouterLink } from 'vue-router';
+import NavLink from "./NavLink.vue";
+import { RouterLink } from "vue-router";
 </script>
 
 <template>
