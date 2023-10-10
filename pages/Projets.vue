@@ -146,5 +146,28 @@
       </div>
     </div>
   </div>
+
   <h2>Sites</h2>
+
+  <p>
+    <a href="https://aimielebon.com/examen/">
+      Examen de première année : Création de sites statiques</a
+    >
+  </p>
+  <p>
+    <a href="https://aimielebon.com/examen_blanc/">
+      Examen blanc de première année : Création de sites statiques
+    </a>
+  </p>
+  <p>
+    <a href="https://aimielebon.com/examen_ergo/">
+      Examen : Ergonomie et communication web et droit
+    </a>
+  </p>
+
+  <p>
+    <a href="https://aimielebon.com/start-portfolio/">
+      Interro : Création de sites statiques
+    </a>
+  </p>
 </template>
